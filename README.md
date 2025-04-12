@@ -5,6 +5,7 @@ Welcome to the **AB Testing with Python** project! This repository contains a Ju
 ## 📁 Project Structure
 
 - `AB_Testing with Python.ipynb`: Main Jupyter Notebook demonstrating the A/B Testing workflow using Python.
+- `ab_testing_data.xlsx`: Sample dataset used for A/B testing analysis.
 - `README.md`: Overview of the project.
 
 ## 📌 Objective
@@ -41,8 +42,9 @@ A/B Testing is widely used in marketing, product design, and web optimization. T
 ## 🚀 How to Run
 
 1. Clone the repo
-2. Open the notebook in JupyterLab or any compatible Python IDE
-3. Run the cells sequentially to follow the entire A/B testing process
+2. Make sure the file `ab_testing_data.xlsx` is in the same directory as the notebook
+3. Open the notebook in JupyterLab or any compatible Python IDE
+4. Run the cells sequentially to follow the entire A/B testing process
 
 ```bash
 git clone https://github.com/yourusername/ab-testing-python.git
